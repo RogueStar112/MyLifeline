@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@inertiajs/react": "^1.0.14"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
